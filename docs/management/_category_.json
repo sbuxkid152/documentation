@@ -1,0 +1,10 @@
+{
+  "label": "Managment",
+  "collapsed": true,
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Managment pages",
+    "description": "The management pages enable you to control and adjust resources on your Homarr server. Each user on the instance has access to these pages, but some of them require the user to be administrators."
+  }
+}
