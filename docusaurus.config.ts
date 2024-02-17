@@ -90,7 +90,7 @@ const config: Config = {
         {
           label: 'More',
           position: 'left',
-          to: '/docs/category/community',
+          to: '/docs/category/more',
         },
         {
           label: 'Blog',
@@ -152,7 +152,7 @@ const config: Config = {
           items: [
             {
               label: 'Installation',
-              to: '/docs/getting-started/index',
+              to: '/docs/category/getting-started',
             }
           ],
         },
